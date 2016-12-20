@@ -1,0 +1,1229 @@
+Group Gefco
+   Version=7.0
+   VSSDB=
+   HasProperties=1
+   Properties
+      BeforeApply=
+      AfterApply=
+      Icon=
+      ID=
+      Version=
+      PalmName=
+      OutPut=
+   End
+   ProjectsCount=1
+   Project Novo Projeto
+      FoldersCount=28
+      Folder Compras
+         VSSPath=Fontes
+         FilesCount=16
+         File \Protheus11\rdmake\Faturamento\GEFCO01.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\PE\MT120APV.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\VldCcApr.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\PE\MT120OK.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\GEF650.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\GEFR013.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\GEFR014.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\WFW120P.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\MT150ROT.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\PE\MT160WF.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\PE\MT100LOK.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\PE\MT410CPY.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\VLDCTBCC.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\GEFWMS01.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\PE\A100DEL.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\PE\Sf1100i.prw
+             Type=T
+         End
+      End
+      Folder Contabil
+         VSSPath=Definições
+         FilesCount=42
+         File \Protheus11\rdmake\CCUSTO.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB05.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB06.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB07.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB09.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB10.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB11.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB12.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB13.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB15.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB08.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB04.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB18.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFCTB10X.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\ctbr260X.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\GEFCTB20.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\GEFCTB21.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\GEFCTB23.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\GEFR010.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\GEFR011.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\GEFR012.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\GEFCTB14.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\GEFCTB24.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\GEFCTB25.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\CTA030TOK.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\PE\CT101TOK.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\GECTBA25.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\GECTBA26.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\GEFCTB8z.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\MANAD_04.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\MANAD.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\GECTBA27.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\CT1620CR.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\GEFRCT2.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\xLanc532_010.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\xLanc530_010.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\xLanc531_010.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\GEFR400.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\GEFRCT2x.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\GECTBR29.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\GECTBA28.PRW
+             Type=T
+         End
+      End
+      Folder Financeiro
+         VSSPath=Nova Pasta3
+         FilesCount=80
+         File \Protheus11\rdmake\GEFL05_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFL01_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFL02_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFL03_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFL04_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM07_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM07A_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM08_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM08A_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Gefm10_AP5.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Gefm11_AP5.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Gefm12_AP5.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Gefm13_AP5.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Gefm14_AP5.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM17.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Gefm18.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM02_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\gefm29_ap7.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM30.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM31.PRX
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM33.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM35.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM38.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM43.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFL08.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GFIN004.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM50.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFLAC_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GFIN005.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFINR007.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GFIN005X.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFM43X.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFINR008.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFINR010.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFINA001.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GFINA002.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GFIN005PX.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFM43XX.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GFINA005.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\doitframewk.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GefR100.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\Relatorio\FINR130x.PRX
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\Relatorio\GFI130QRY.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\Relatorio\GEFINR006.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFINC008.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFINA003.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFINA002.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\FA040INC.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFINA004.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFCLGRP.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\gefax04.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFP004.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFAX05.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\Relatorio\GEFINR009.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFASZB.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\gefpf001.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFPF002.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GFINR130Y.PRX
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFM61x.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFMSZS.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFMSZR.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFM063.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\CNAB2.PRX
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\FIN150_1.PRX
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFM070.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFM19.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\Relatorio\GEFINR11.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\gefpsa02.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\ConVLD.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\CODBAR.PRX
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\M460MARK.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Util\EnvEmail.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\F110TRAVA.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\F280CHQRY.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\XINA110.prx
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\FA280.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\F280CAN.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\vldPSA.prw
+             Type=T
+         End
+      End
+      Folder Fiscal
+         VSSPath=Nova Pasta4
+         FilesCount=10
+         File \Protheus11\rdmake\GEFISS_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\AltCfo.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\ALTSD1.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\ALTSF3.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Fiscal\MATR914X.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM57.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Fiscal\GEFISA001.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM56A.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\MTATIP71.PRW
+             Type=T
+         End
+      End
+      Folder Configurador
+         VSSPath=Nova Pasta5
+         FilesCount=10
+         File \Protheus11\rdmake\USUARIOS.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\AtuBase.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\gefexport.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFEXPORT01.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFEXPORT02.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFEXPORT03.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFEXPORT04.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFEXPORT05.PRW
+             Type=T
+         End
+      End
+      Folder Faturamento
+         VSSPath=Nova Pasta6
+         FilesCount=23
+         File \Protheus11\rdmake\MATA080.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\SF2460I.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\MSNAT.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\MTA410.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\Schedule\gefsh001.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\NFGEF02.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\Nfgef01.prx
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\MS520VLD.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\GEFMCTB.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\GEFM072.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\MT410ACE.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\NfgefHUB.prx
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\GEFR078.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\GEFR968.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\GEFR078v2.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\RGEFE03.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\TES.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\Gef915Rio.prw
+             Type=T
+         End
+      End
+      Folder LP
+         VSSPath=Nova Pasta8
+         FilesCount=4
+         File \Protheus11\rdmake\Gefl99_AP5.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Gefl98_AP5.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFL06.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFL09.PRW
+             Type=T
+         End
+      End
+      Folder PE
+         VSSPath=Nova Pasta9
+         FilesCount=29
+         File \Protheus11\rdmake\FA050S1.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\F460VER.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\CT030GRI.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\MA030TOK.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\fa070tit_AP5.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\FA040ALT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\F130QRY.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\FA060QRY.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\VLDCNTCC.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\PE\CT105TOK.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\FA050INC.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\FA050ALT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\F110FIL.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\PE\MT100TOK.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\FA280QRY.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\F050LRCT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\FA470CTA.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\SIGAFIN.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\F240FIL.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\MA020TOK.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\F420NAR.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\F050LRAT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\F280NFT.prw
+             Type=T
+         End
+      End
+      Folder Estoque
+         VSSPath=Nova Pasta10
+         FilesCount=2
+         File \Protheus11\rdmake\GEFEST01.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\IMPFIFO.PRW
+             Type=T
+         End
+      End
+      Folder Ativo Fixo
+         VSSPath=Nova Pasta11
+         FilesCount=4
+         File \Protheus11\rdmake\GEFM47.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Ativo Fixo\GEATFA001.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Ativo Fixo\XTFR110.PRX
+             Type=T
+         End
+         File \Protheus11\rdmake\temp\ACTIVE.prw
+             Type=T
+         End
+      End
+      Folder Microsiga
+         VSSPath=Nova Pasta13
+         FilesCount=3
+         File \Protheus11\rdmake\TESTE\GEFCTB8x.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\GEFCTB8y.prw
+             Type=T
+         End
+      End
+      Folder Funcoes
+         VSSPath=Nova Pasta14
+         FilesCount=3
+         File \Protheus11\rdmake\Financeiro\PE\FLimpaND.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\RetCliGrp.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Util\funcoes.PRW
+             Type=T
+         End
+      End
+      Folder Temp_Furtado
+         VSSPath=Nova Pasta14
+         FilesCount=2
+         File \Protheus11\rdmake\Financeiro\tempmar.PRW
+             Type=T
+         End
+      End
+      Folder Controle de Gestao
+         VSSPath=Nova Pasta15
+         FilesCount=6
+         File \Protheus11\rdmake\Controle de Gestao\GCTGA001.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Controle de Gestao\GCPSA005.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Controle de Gestao\GCPSA002.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Controle de Gestao\GCPSA003.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Controle de Gestao\GCPSA004.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Controle de Gestao\GCPSA001.prw
+             Type=T
+         End
+      End
+      Folder Util
+         VSSPath=Nova Pasta16
+         FilesCount=3
+         File \Protheus11\rdmake\Util\impfatu.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Util\UPDSX.PRW
+             Type=T
+         End
+      End
+      Folder Teste
+         VSSPath=Nova Pasta17
+         FilesCount=26
+         File \Protheus11\rdmake\Financeiro\Teste\fTeste.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\gefexport_NOVO.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\TCona050.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\ImpCC.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\EMBARALHA.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\GEFLPRAT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\FINA200.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\PE\FA040B01.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Contabilidade\relatorio\GEFR012E.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Faturamento\GEFR015.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Financeiro\GEFM43Y.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\DIEF.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\GEFM062SF3.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\CONR060g.PRX
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\GEFM065.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\FQMTRM.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\MANAD_07.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\SINCO_CTB.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\MANAD_08.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Carga_De_Clientes_Adhoc.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TESTE\GestLoteII.prw
+             Type=T
+         End
+      End
+      Folder Teste Baixa Provisão Compra Frete
+         VSSPath=Nova Pasta17
+         FilesCount=2
+         File \Protheus11\rdmake\TESTE\GEFM064.prw
+             Type=T
+         End
+      End
+      Folder TMS
+         VSSPath=Nova Pasta19
+         FilesCount=70
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM200TES.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TMALTBAS.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM050TOK.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM200FIM.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\GEFA002.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\GEFA003.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\GEFA004.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Relatórios\RTMSR01.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Cadastros\szf.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Cadastros\szg.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Cadastros\SZH.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Cadastros\szi.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\chgx5fil.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Cadastros\GFCAD002.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Cadastros\GFCAD003.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Cadastros\GFCAD004.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Cadastros\GFCAD006.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TMCALFRE.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\GEFA005.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TMA050GRV.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\VlQtdLot.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\EDIXFUNC.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM050EDI.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TME10VLI.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Relatórios\GEFR20.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TMA050CPO.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\GEFA006.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM050BUT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TMCPOEDI.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\CRIALOTE.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\GEFA001.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\GEFDE5DEL.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Relatórios\GEFR082.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM200EXC.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Relatórios\GEFR21.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Cadastros\ATUSA1.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Cadastros\ATUSA2.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CT-e\CTESEFAZ.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM200OK.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\TM200EST.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\GEFMXML.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM250XML.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM340OPE.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TMTABCAR.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM460CPO.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\GEFADT6XFIN.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\RGEFE02.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TMSA1801.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\CECEML.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CT-e\GEFTMSA200.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\RTMSE01.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\EDI\RGEFE01.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CT-e\RTMSR27.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\FI040ROT.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TM500DOC.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CT-e\GEFXMLROB.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CT-e\averbar.prw
+             Type=T
+         End
+      End
+      Folder LOTEII
+         VSSPath=Nova Pasta19
+         FilesCount=6
+         File \Protheus11\rdmake\LOTEII\Gera_Interface_LoteII.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\LOTEII\Validacoes_LoteII.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\LOTEII\Gestao_de_Erratas_LoteII.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\LOTEII\ENVIO_EMAIL_ERRATAS_LOTEII.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\LOTEII\Cadastro_Filial_Gefco1.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\LOTEII\TSTGERA_LOTEII.PRW
+             Type=T
+         End
+      End
+      Folder WMS
+         VSSPath=Nova Pasta20
+         FilesCount=2
+         File \Protheus11\rdmake\faturamento\GEFWMS02.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\compras\GEFWMS01.PRW
+             Type=T
+         End
+      End
+      Folder Compra de Frete
+         VSSPath=Nova Pasta21
+         FilesCount=5
+         File \Protheus11\rdmake\Faturamento\GEFM073.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compra-de-Frete-TLA\GEFR080.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compra-de-Frete-TLA\GEFR081.prw
+             Type=T
+         End
+      End
+      Folder TMS-TLA
+         VSSPath=Nova Pasta22
+         FilesCount=8
+         File \Protheus11\rdmake\TMS\TLA\GEFA075.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\TLA\GEFA076.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\TLA\GEFR077.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\TLA\GEFA079.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\GEFM04_AP5.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Compra-de-Frete-TLA\GEFM079.PRW
+             Type=T
+         End
+      End
+      Folder NFS-e
+         VSSPath=Nova Pasta23
+         FilesCount=15
+         File \Protheus11\rdmake\nfse\fCnNFS1.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\FIRSTNFSE.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\IMPRTXML.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\LOUTXML.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\NFSEXml001.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\NFSEXml002.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\NFSEXml003.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\NFSEXml102.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\uConSitSef.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\XFISA022.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\Compras\PE\MA103BUT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\GEFA008x.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\GEFA008.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\GEFA080.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\nfse\nfsexmlenv.prw
+             Type=T
+         End
+      End
+      Folder TMS-MDF-e
+         VSSPath=Nueva Carpeta24
+         FilesCount=3
+         File \Protheus11\rdmake\TMS\MDF-e\RTMSR28.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\MDF-e\DAMDFE.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\MDF-e\MDFSEFAZ.PRW
+             Type=T
+         End
+      End
+      Folder TMS-CNH
+         VSSPath=Nueva Carpeta25
+         FilesCount=29
+         File \Protheus11\rdmake\TMS\CNH\TMSAFBUT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFCNHCEP.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFCNHDOC.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFCNHLOG.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFCNHNFE.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFINTJOB.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFINTR01.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFINTR02.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFWSCNH.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TM141FGRV.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TM350GRV.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TM350MNT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TM360GRV.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TM360MAIL.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TM360TOK.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TMA050FIM.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TMF05COT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TMF05GR1.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TMF05LOK.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\TMF05MNU.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFINTCNH.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFCNHLOT.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\RGEFM02.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\RGEFM03.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFCNHBWS.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\GEFCNHAST.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Pontos de Entrada\TMA050MN.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\CNH\RGEFM04.PRW
+             Type=T
+         End
+      End
+      Folder WSSIM
+         VSSPath=Nueva Carpeta26
+         FilesCount=2
+         File \Protheus11\rdmake\WSSIM\GEFSIMWS.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\WSSIM\GEFSIMSZ6.prw
+             Type=T
+         End
+      End
+      Folder Integracao_CCO
+         VSSPath=Nova Pasta27
+         FilesCount=2
+         File \Protheus11\rdmake\Integra_CCO\MA410MNU.PRW
+             Type=T
+         End
+         File \Protheus11\rdmake\Integra_CCO\GEFCCOINT.prw
+             Type=T
+         End
+      End
+      Folder TMS-GPO
+         VSSPath=Nova Pasta28
+         FilesCount=7
+         File \Protheus11\rdmake\TMS\GPO\GEFRGPO01.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\Relatórios\GEFR022.prw
+             Type=T
+         End
+         File \Protheus11\rdmake\TMS\GPO\CT-e\CteSefaz.prw
+             Type=T
+         End
+      End
+   End
+   BatchBuild_Item0=Novo Projeto · TESTE
+End

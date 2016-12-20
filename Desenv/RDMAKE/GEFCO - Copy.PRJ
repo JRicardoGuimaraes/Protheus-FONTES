@@ -1,0 +1,1206 @@
+Group Gefco
+   Version=7.0
+   VSSDB=
+   HasProperties=1
+   Properties
+      BeforeApply=
+      AfterApply=
+      Icon=
+      ID=
+      Version=
+      PalmName=
+      OutPut=
+   End
+   ProjectsCount=1
+   Project Novo Projeto
+      FoldersCount=23
+      Folder Compras
+         VSSPath=Fontes
+         FilesCount=16
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFCO01.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\PE\MT120APV.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\VldCcApr.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\PE\MT120OK.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\GEF650.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\GEFR013.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\GEFR014.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\WFW120P.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\MT150ROT.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\PE\MT160WF.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Sf1100i_AP5.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\PE\MT100LOK.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\PE\MT410CPY.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\VLDCTBCC.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\GEFWMS01.PRW
+             Type=T
+         End
+         File \Protheus10\rdmake\Compras\PE\A100DEL.prw
+             Type=T
+         End
+      End
+      Folder Contabil
+         VSSPath=Definições
+         FilesCount=37
+         File E:\P11_MIGRACAO\rdmake\CCUSTO.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB05.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB06.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB07.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB09.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB10.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB11.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB12.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB13.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB15.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB08.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB04.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB18.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFCTB10X.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\ctbr260X.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\GEFCTB19.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\GEFCTB20.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\GEFCTB21.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\GEFCTB23.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\relatorio\GEFR010.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\relatorio\GEFR011.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\relatorio\GEFR012.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\relatorio\GEFCTB14.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\relatorio\GEFCTB24.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\relatorio\GEFCTB25.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\relatorio\GEFCTB22.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\relatorio\CTA030TOK.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\PE\CT101TOK.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\GECTBA24.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\GECTBA25.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\GECTBA26.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\GEFCTB8z.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\MANAD_04.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\MANAD.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\GECTBA27.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\CT1620CR.PRW
+             Type=T
+         End
+         File \Protheus10\rdmake\Contabilidade\GEFCTB21.PRW
+             Type=T
+         End
+      End
+      Folder Financeiro
+         VSSPath=Nova Pasta3
+         FilesCount=103
+         File E:\P11_MIGRACAO\rdmake\GEFL05_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFL01_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFL02_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFL03_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFL04_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\AltTit.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM07_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM07A_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM08_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM08A_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Gefm10_AP5.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Gefm11_AP5.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Gefm12_AP5.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Gefm13_AP5.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Gefm14_AP5.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM15_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM17.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Gefm18.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM25.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\FA60BDE_ap7.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM02_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM03_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM03A_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\gefm29_ap7.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM30.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM31.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM33.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM35.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\FA280.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM42.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM42A.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM38.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM43.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM45_ap.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFL08.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GFIN004.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM50.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM54.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM53.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFLAC_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GFIN005.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFINR007.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GFIN005X.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFM43X.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFINR008.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFM02_AP5old.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\FA050GRV.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\FA050DEL.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFINR010.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFINA001.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GFINA002.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GFINA003.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM03AT.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GFINA004.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\XINA110.prx
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\XINA350.prx
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GFIN005PX.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFM43XX.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GFINA005.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GFINA006.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\doitframewk.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GefR100.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\Relatorio\FINR130x.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\Relatorio\GFI130QRY.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\Relatorio\GEFINR006.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFINC008.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFINA003.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFINA002.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\gefpsa01.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\FA040INC.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\vldpsa.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFINA004.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFCLGRP.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\gefax04.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFP004.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFAX05.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\Relatorio\GEFINR009.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFASZB.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\gefpf001.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFPF002.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\GECTBA24.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM01.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFM03_AP5X.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GFINR130Y.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFM61x.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFMSZS.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFMSZR.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFM062.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFM063.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\CNAB2.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\FIN150_1.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFM070.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFM19.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\Relatorio\GEFINR11.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\Relatorio\GEFR130X.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\gefpsa02.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\ConVLD.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\CODBAR.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFINR010.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\gefpsa02.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\M460MARK.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Util\EnvEmail.prw
+             Type=T
+         End
+         File \Protheus10\rdmake\Financeiro\XINA110.prx
+             Type=T
+         End
+      End
+      Folder Fiscal
+         VSSPath=Nova Pasta4
+         FilesCount=14
+         File E:\P11_MIGRACAO\rdmake\GEFISS_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\AltCfo.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\ALTSD1.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\ALTSF3.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM49.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\MTATIP71.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Fiscal\MATR914X.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM57.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM56.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Fiscal\GEFISA001.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Fiscal\GEFM59.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Fiscal\MTDescrNFE.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Fiscal\GEFISA002.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM56A.PRW
+             Type=T
+         End
+      End
+      Folder Configurador
+         VSSPath=Nova Pasta5
+         FilesCount=9
+         File E:\P11_MIGRACAO\rdmake\USUARIOS.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\AtuBase.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\gefexport.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFEXPORT01.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFEXPORT02.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFEXPORT03.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFEXPORT04.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFEXPORT05.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\+Soluções\GEFCORTE.PRW
+             Type=T
+         End
+      End
+      Folder Faturamento
+         VSSPath=Nova Pasta6
+         FilesCount=22
+         File E:\P11_MIGRACAO\rdmake\MATA080.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\SF2460I.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\MSNAT.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\TES.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\MTA410.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\Schedule\gefsh001.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\NFGEF02.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\Nfgef01.prx
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\MS520VLD.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFMCTB.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFM071.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFM072.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFM073.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\MT410ACE.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\Gef915Rio.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\MT410ACE.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFWMS02.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFWMS02.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\NfgefHUB.prx
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFR078.PRW
+             Type=T
+         End
+         File \P11_Migracao\RDMAKE\Faturamento\GEFR968.prw
+             Type=T
+         End
+         File \P11_Migracao\RDMAKE\Faturamento\GEFMNFE_PR.prw
+             Type=T
+         End
+      End
+      Folder LP
+         VSSPath=Nova Pasta8
+         FilesCount=5
+         File E:\P11_MIGRACAO\rdmake\Gefl99_AP5.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Gefl98_AP5.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFL06.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFL09.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\SF2460I.PRW
+             Type=T
+         End
+      End
+      Folder PE
+         VSSPath=Nova Pasta9
+         FilesCount=30
+         File E:\P11_MIGRACAO\rdmake\FA050S1.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\F460VER.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\CT030GRI.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\MA030TOK.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\fa070tit_AP5.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\FA050GRV.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\FA040ALT.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\F130QRY.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\FA060QRY.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\FA60BDE_AP7.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\VLDCNTCC.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\PE\CT105TOK.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\PE\CT101TOK.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\FA050INC.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\FA050ALT.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\F110FIL.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\PE\MT100TOK.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\PE\MT100LOK.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\FA280QRY.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\F350CM.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\F350CM2.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\F050LRCT.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\FA470CTA.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\M460MARK.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\SIGAFIN.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\F240FIL.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\MA020TOK.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\F420NAR.prw
+             Type=T
+         End
+         File \Protheus10\rdmake\Financeiro\PE\F050LRCT.prw
+             Type=T
+         End
+         File \Protheus10\rdmake\Financeiro\PE\F050LRAT.prw
+             Type=T
+         End
+      End
+      Folder Estoque
+         VSSPath=Nova Pasta10
+         FilesCount=2
+         File E:\P11_MIGRACAO\rdmake\GEFEST01.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\IMPFIFO.PRW
+             Type=T
+         End
+      End
+      Folder Ativo Fixo
+         VSSPath=Nova Pasta11
+         FilesCount=4
+         File E:\P11_MIGRACAO\rdmake\GEFM47.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Ativo Fixo\GEATFA001.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Ativo Fixo\XTFR110.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\temp\ACTIVE.prw
+             Type=T
+         End
+      End
+      Folder Microsiga
+         VSSPath=Nova Pasta13
+         FilesCount=3
+         File E:\P11_MIGRACAO\rdmake\TESTE\GEFCTB13.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\GEFCTB8x.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\GEFCTB8y.prw
+             Type=T
+         End
+      End
+      Folder Funcoes
+         VSSPath=Nova Pasta14
+         FilesCount=2
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\FLimpaND.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\RetCliGrp.prw
+             Type=T
+         End
+      End
+      Folder Temp_Furtado
+         VSSPath=Nova Pasta14
+         FilesCount=1
+         File E:\P11_MIGRACAO\rdmake\Financeiro\tempmar.PRW
+             Type=T
+         End
+      End
+      Folder Controle de Gestao
+         VSSPath=Nova Pasta15
+         FilesCount=6
+         File E:\P11_MIGRACAO\rdmake\Controle de Gestao\GCTGA001.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Controle de Gestao\GCPSA005.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Controle de Gestao\GCPSA002.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Controle de Gestao\GCPSA003.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Controle de Gestao\GCPSA004.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Controle de Gestao\GCPSA001.prw
+             Type=T
+         End
+      End
+      Folder Util
+         VSSPath=Nova Pasta16
+         FilesCount=2
+         File E:\P11_MIGRACAO\rdmake\Util\impfatu.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Util\EnvEmail.prw
+             Type=T
+         End
+      End
+      Folder Teste
+         VSSPath=Nova Pasta17
+         FilesCount=30
+         File E:\P11_MIGRACAO\rdmake\Financeiro\Teste\fTeste.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\gefexport_NOVO.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\TCona050.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\ImpCC.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\GEFM01SF3.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\EMBARALHA.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\GEFM01SE2.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\GEFLPRAT.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\FINA200.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\Teste\XINA110y.prx
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\FA040B01.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Contabilidade\relatorio\GEFR012E.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFR015.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\PE\SIGAFIN.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\GEFM43Y.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\DIEF.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\FIN150_1.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\CNAB2.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\GEFM062SF3.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\CONR060g.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\MANAD_04.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\GEFM065.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\FQMTRM.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\MANAD_07.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\SINCO_CTB.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\MANAD_08.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\MANAD.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Carga_De_Clientes_Adhoc.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\Relatorio\GEFR130X.PRX
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TESTE\GestLoteII.prw
+             Type=T
+         End
+      End
+      Folder Teste Baixa Provisão Compra Frete
+         VSSPath=Nova Pasta17
+         FilesCount=1
+         File E:\P11_MIGRACAO\rdmake\TESTE\GEFM064.prw
+             Type=T
+         End
+      End
+      Folder TMS
+         VSSPath=Nova Pasta19
+         FilesCount=43
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TM200TES.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TMALTBAS.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TM050TOK.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TM200FIM.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\EDI\GEFA001.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\EDI\GEFA002.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\EDI\GEFA003.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\EDI\GEFA004.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Relatórios\RTMSR01.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Cadastros\szf.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Cadastros\szg.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Cadastros\SZH.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Cadastros\szi.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\chgx5fil.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Cadastros\GFCAD002.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Cadastros\GFCAD003.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Cadastros\GFCAD004.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Cadastros\GFCAD006.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TMCALFRE.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\EDI\GEFA005.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TMA050GRV.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\VlQtdLot.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\EDI\EDIXFUNC.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TM050EDI.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TME10VLI.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Relatórios\GEFR20.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Relatórios\GEFR21.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TMA050CPO.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\EDI\GEFA006.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TM050BUT.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TMCPOEDI.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\CRIALOTE.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Relatórios\GEFR20.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Relatórios\GEFR21.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\EDI\GEFA001.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\EDI\GEFA006.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\EDI\GEFA005.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\GEFDE5DEL.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\Relatórios\GEFR082.PRW
+             Type=T
+         End
+         File \P11_Migracao\RDMAKE\TMS\Pontos de Entrada\TMA050GRV.PRW
+             Type=T
+         End
+         File \P11_Migracao\RDMAKE\TMS\Pontos de Entrada\TM200FIM.prw
+             Type=T
+         End
+         File \P11_Migracao\RDMAKE\TMS\Pontos de Entrada\TM200EXC.prw
+             Type=T
+         End
+         File \P11_Migracao\RDMAKE\TMS\Relatórios\GEFR21.prw
+             Type=T
+         End
+      End
+      Folder LOTEII
+         VSSPath=Nova Pasta19
+         FilesCount=6
+         File E:\P11_MIGRACAO\rdmake\LOTEII\Gera_Interface_LoteII.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\LOTEII\Validacoes_LoteII.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\LOTEII\Gestao_de_Erratas_LoteII.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\LOTEII\ENVIO_EMAIL_ERRATAS_LOTEII.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\LOTEII\Cadastro_Filial_Gefco1.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\LOTEII\TSTGERA_LOTEII.PRW
+             Type=T
+         End
+      End
+      Folder WMS
+         VSSPath=Nova Pasta20
+         FilesCount=2
+         File E:\P11_MIGRACAO\rdmake\WMS\GEFWMS02.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\WMS\GEFWMS01.PRW
+             Type=T
+         End
+      End
+      Folder Compra de Frete
+         VSSPath=Nova Pasta21
+         FilesCount=5
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFM071.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFM072.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Faturamento\GEFM073.prw
+             Type=T
+         End
+         File \Protheus10\rdmake\Compra-de-Frete-TLA\GEFR080.prw
+             Type=T
+         End
+         File \Protheus10\rdmake\Compra-de-Frete-TLA\GEFR081.prw
+             Type=T
+         End
+      End
+      Folder TMS-TLA
+         VSSPath=Nova Pasta22
+         FilesCount=9
+         File E:\P11_MIGRACAO\rdmake\TMS\Pontos de Entrada\TM200EXC.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\TLA\GEFA075.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\TLA\GEFA076.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\TLA\GEFR077.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\TLA\GEFM078.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\TMS\TLA\GEFA079.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\GEFM04_AP5.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compra-de-Frete-TLA\GEFM079.PRW
+             Type=T
+         End
+         File \P11_Migracao\RDMAKE\Compra-de-Frete-TLA\GEFM079.PRW
+             Type=T
+         End
+      End
+      Folder NFS-e
+         VSSPath=Nova Pasta23
+         FilesCount=13
+         File E:\P11_MIGRACAO\rdmake\nfse\GXMLNFSE.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\nfse\fCnNFS1.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\nfse\FIRSTNFSE.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\nfse\IMPRTXML.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\nfse\LOUTXML.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\nfse\NFSEXml001.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\nfse\NFSEXml002.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\nfse\NFSEXml003.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\nfse\NFSEXml102.PRW
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\nfse\uConSitSef.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\nfse\XFISA022.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Financeiro\IDNFSE.prw
+             Type=T
+         End
+         File E:\P11_MIGRACAO\rdmake\Compras\PE\MA103BUT.prw
+             Type=T
+         End
+      End
+   End
+   BatchBuild_Item0=Novo Projeto · TESTE
+End

@@ -1,0 +1,1388 @@
+Group Gefco
+   Version=7.0
+   VSSDB=
+   HasProperties=1
+   Properties
+      BeforeApply=
+      AfterApply=
+      Icon=
+      ID=
+      Version=
+      PalmName=
+      OutPut=
+   End
+   ProjectsCount=1
+   Project Novo Projeto
+      FoldersCount=28
+      Folder Compras
+         VSSPath=Fontes
+         FilesCount=16
+         File \\gewl3bclnpmst01\RDMAKE\Faturamento\GEFCO01.prw
+             Type=T
+         End
+         File \rdmake\Compras\PE\MT120APV.prw
+             Type=T
+         End
+         File \rdmake\Compras\VldCcApr.prw
+             Type=T
+         End
+         File \rdmake\Compras\PE\MT120OK.prw
+             Type=T
+         End
+         File \rdmake\Compras\GEF650.prw
+             Type=T
+         End
+         File \rdmake\Compras\GEFR013.PRW
+             Type=T
+         End
+         File \rdmake\Compras\GEFR014.PRW
+             Type=T
+         End
+         File \rdmake\Compras\WFW120P.PRW
+             Type=T
+         End
+         File \rdmake\Compras\MT150ROT.PRW
+             Type=T
+         End
+         File \rdmake\Compras\PE\MT160WF.prw
+             Type=T
+         End
+         File \rdmake\Compras\PE\MT100LOK.prw
+             Type=T
+         End
+         File \rdmake\Compras\PE\MT410CPY.prw
+             Type=T
+         End
+         File \rdmake\Compras\VLDCTBCC.PRW
+             Type=T
+         End
+         File \rdmake\Compras\GEFWMS01.PRW
+             Type=T
+         End
+         File \rdmake\Compras\PE\A100DEL.prw
+             Type=T
+         End
+         File \RDMAKE\Compras\PE\Sf1100i.prw
+             Type=T
+         End
+      End
+      Folder Contabil
+         VSSPath=Definições
+         FilesCount=42
+         File \rdmake\CCUSTO.PRW
+             Type=T
+         End
+         File \rdmake\GEFCTB05.PRW
+             Type=T
+         End
+         File \rdmake\GEFCTB06.prw
+             Type=T
+         End
+         File \rdmake\GEFCTB07.prw
+             Type=T
+         End
+         File \rdmake\GEFCTB09.PRW
+             Type=T
+         End
+         File \rdmake\GEFCTB10.PRW
+             Type=T
+         End
+         File \rdmake\GEFCTB11.prw
+             Type=T
+         End
+         File \rdmake\GEFCTB12.PRW
+             Type=T
+         End
+         File \rdmake\GEFCTB13.PRW
+             Type=T
+         End
+         File \rdmake\GEFCTB15.PRW
+             Type=T
+         End
+         File \rdmake\GEFCTB08.prw
+             Type=T
+         End
+         File \rdmake\GEFCTB04.prw
+             Type=T
+         End
+         File \rdmake\GEFCTB18.PRW
+             Type=T
+         End
+         File \rdmake\GEFCTB10X.PRW
+             Type=T
+         End
+         File \rdmake\Contabilidade\ctbr260X.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\GEFCTB20.PRW
+             Type=T
+         End
+         File \rdmake\Contabilidade\GEFCTB21.PRW
+             Type=T
+         End
+         File \rdmake\Contabilidade\GEFCTB23.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\relatorio\GEFR010.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\relatorio\GEFR011.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\relatorio\GEFR012.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\relatorio\GEFCTB14.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\relatorio\GEFCTB24.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\relatorio\GEFCTB25.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\relatorio\CTA030TOK.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\PE\CT101TOK.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\GECTBA25.PRW
+             Type=T
+         End
+         File \rdmake\Contabilidade\GECTBA26.PRW
+             Type=T
+         End
+         File \rdmake\Contabilidade\GEFCTB8z.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\MANAD_04.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\MANAD.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\GECTBA27.PRW
+             Type=T
+         End
+         File \rdmake\Contabilidade\CT1620CR.PRW
+             Type=T
+         End
+         File \rdmake\Contabilidade\GEFCTB21.PRW
+             Type=T
+         End
+         File \RDMAKE\Contabilidade\relatorio\GEFRCT2.prw
+             Type=T
+         End
+         File \RDMAKE\Contabilidade\xLanc532_010.prw
+             Type=T
+         End
+         File \RDMAKE\Contabilidade\xLanc530_010.prw
+             Type=T
+         End
+         File \RDMAKE\Contabilidade\xLanc531_010.prw
+             Type=T
+         End
+         File \RDMAKE\Contabilidade\relatorio\GEFR400.prw
+             Type=T
+         End
+         File \RDMAKE\Contabilidade\relatorio\GEFRCT2x.PRW
+             Type=T
+         End
+         File \RDMAKE\Contabilidade\GECTBR29.PRW
+             Type=T
+         End
+         File \RDMAKE\Contabilidade\GECTBA28.PRW
+             Type=T
+         End
+      End
+      Folder Financeiro
+         VSSPath=Nova Pasta3
+         FilesCount=80
+         File \rdmake\GEFL05_AP5.PRW
+             Type=T
+         End
+         File \rdmake\GEFL01_AP5.PRW
+             Type=T
+         End
+         File \rdmake\GEFL02_AP5.PRW
+             Type=T
+         End
+         File \rdmake\GEFL03_AP5.PRW
+             Type=T
+         End
+         File \rdmake\GEFL04_AP5.PRW
+             Type=T
+         End
+         File \rdmake\GEFM07_AP5.PRW
+             Type=T
+         End
+         File \rdmake\GEFM07A_AP5.PRW
+             Type=T
+         End
+         File \rdmake\GEFM08_AP5.PRW
+             Type=T
+         End
+         File \rdmake\GEFM08A_AP5.PRW
+             Type=T
+         End
+         File \rdmake\Gefm10_AP5.prw
+             Type=T
+         End
+         File \rdmake\Gefm11_AP5.prw
+             Type=T
+         End
+         File \rdmake\Gefm12_AP5.prw
+             Type=T
+         End
+         File \rdmake\Gefm13_AP5.prw
+             Type=T
+         End
+         File \rdmake\Gefm14_AP5.prw
+             Type=T
+         End
+         File \rdmake\GEFM17.PRW
+             Type=T
+         End
+         File \rdmake\Gefm18.prw
+             Type=T
+         End
+         File \rdmake\GEFM02_AP5.PRW
+             Type=T
+         End
+         File \rdmake\gefm29_ap7.PRW
+             Type=T
+         End
+         File \rdmake\GEFM30.PRW
+             Type=T
+         End
+         File \rdmake\GEFM31.PRX
+             Type=T
+         End
+         File \rdmake\GEFM33.PRW
+             Type=T
+         End
+         File \rdmake\GEFM35.PRW
+             Type=T
+         End
+         File \rdmake\GEFM38.PRW
+             Type=T
+         End
+         File \rdmake\GEFM43.PRW
+             Type=T
+         End
+         File \rdmake\GEFL08.PRW
+             Type=T
+         End
+         File \rdmake\GFIN004.PRW
+             Type=T
+         End
+         File \rdmake\GEFM50.PRW
+             Type=T
+         End
+         File \rdmake\GEFLAC_AP5.PRW
+             Type=T
+         End
+         File \rdmake\GFIN005.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFINR007.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GFIN005X.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFM43X.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFINR008.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFINR010.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFINA001.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GFINA002.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GFIN005PX.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFM43XX.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GFINA005.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\doitframewk.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GefR100.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\Relatorio\FINR130x.PRX
+             Type=T
+         End
+         File \rdmake\Financeiro\Relatorio\GFI130QRY.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\Relatorio\GEFINR006.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFINC008.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFINA003.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFINA002.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\FA040INC.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFINA004.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFCLGRP.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\gefax04.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFP004.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFAX05.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\Relatorio\GEFINR009.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFASZB.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\gefpf001.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFPF002.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GFINR130Y.PRX
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFM61x.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFMSZS.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFMSZR.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFM063.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\CNAB2.PRX
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\FIN150_1.PRX
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFM070.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFM19.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\Relatorio\GEFINR11.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\gefpsa02.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\ConVLD.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\CODBAR.PRX
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFINR010.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\gefpsa02.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\M460MARK.prw
+             Type=T
+         End
+         File \rdmake\Util\EnvEmail.prw
+             Type=T
+         End
+         File \RDMAKE\Financeiro\PE\F110TRAVA.PRW
+             Type=T
+         End
+         File \RDMAKE\Financeiro\PE\F280CHQRY.prw
+             Type=T
+         End
+         File \RDMAKE\Financeiro\XINA110.prx
+             Type=T
+         End
+         File \RDMAKE\Financeiro\PE\FA280.prw
+             Type=T
+         End
+         File \RDMAKE\Financeiro\PE\F280CAN.PRW
+             Type=T
+         End
+         File \RDMAKE\Financeiro\vldPSA.prw
+             Type=T
+         End
+      End
+      Folder Fiscal
+         VSSPath=Nova Pasta4
+         FilesCount=10
+         File \rdmake\GEFISS_AP5.PRW
+             Type=T
+         End
+         File \rdmake\AltCfo.prw
+             Type=T
+         End
+         File \rdmake\ALTSD1.PRW
+             Type=T
+         End
+         File \rdmake\ALTSF3.PRW
+             Type=T
+         End
+         File \rdmake\Fiscal\MATR914X.PRW
+             Type=T
+         End
+         File \rdmake\GEFM57.PRW
+             Type=T
+         End
+         File \rdmake\Fiscal\GEFISA001.PRW
+             Type=T
+         End
+         File \rdmake\GEFM56A.PRW
+             Type=T
+         End
+         File \RDMAKE\MTATIP71.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\MDF-e\TMSA1801.prw
+             Type=T
+         End
+      End
+      Folder Configurador
+         VSSPath=Nova Pasta5
+         FilesCount=10
+         File \rdmake\USUARIOS.PRW
+             Type=T
+         End
+         File \rdmake\AtuBase.PRW
+             Type=T
+         End
+         File \rdmake\gefexport.prw
+             Type=T
+         End
+         File \rdmake\GEFEXPORT01.PRW
+             Type=T
+         End
+         File \rdmake\GEFEXPORT02.PRW
+             Type=T
+         End
+         File \rdmake\GEFEXPORT03.PRW
+             Type=T
+         End
+         File \rdmake\GEFEXPORT04.PRW
+             Type=T
+         End
+         File \rdmake\GEFEXPORT05.PRW
+             Type=T
+         End
+         File \rdmake\+Soluções\GEFCORTE.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\RGEFM04.PRW
+             Type=T
+         End
+      End
+      Folder Faturamento
+         VSSPath=Nova Pasta6
+         FilesCount=26
+         File \rdmake\MATA080.PRW
+             Type=T
+         End
+         File \rdmake\Faturamento\SF2460I.PRW
+             Type=T
+         End
+         File \rdmake\MSNAT.PRW
+             Type=T
+         End
+         File \rdmake\Faturamento\MTA410.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\Schedule\gefsh001.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\NFGEF02.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\Nfgef01.prx
+             Type=T
+         End
+         File \rdmake\Faturamento\MS520VLD.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\GEFMCTB.PRW
+             Type=T
+         End
+         File \rdmake\Faturamento\GEFM072.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\GEFM073.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\MT410ACE.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\MT410ACE.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\GEFWMS02.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\GEFWMS02.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\NfgefHUB.prx
+             Type=T
+         End
+         File \rdmake\Faturamento\GEFR078.PRW
+             Type=T
+         End
+         File \rdmake\Faturamento\GEFR968.prw
+             Type=T
+         End
+         File \RDMAKE\Faturamento\GEFR968.prw
+             Type=T
+         End
+         File \RDMAKE\Faturamento\GEFR078v2.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\EDI\RGEFE03.prw
+             Type=T
+         End
+         File \RDMAKE\Faturamento\TES.PRW
+             Type=T
+         End
+         File \RDMAKE\Faturamento\Gef915Rio.prw
+             Type=T
+         End
+         File \Faturamento\GEFR078.PRW
+             Type=T
+         End
+         File \Faturamento\GEFR078v2.PRW
+             Type=T
+         End
+         File \TMS\CNH\GEFCNHFAT.PRW
+             Type=T
+         End
+      End
+      Folder LP
+         VSSPath=Nova Pasta8
+         FilesCount=4
+         File \rdmake\Gefl99_AP5.prw
+             Type=T
+         End
+         File \rdmake\Gefl98_AP5.prw
+             Type=T
+         End
+         File \rdmake\GEFL06.PRW
+             Type=T
+         End
+         File \rdmake\GEFL09.PRW
+             Type=T
+         End
+      End
+      Folder PE
+         VSSPath=Nova Pasta9
+         FilesCount=29
+         File \rdmake\FA050S1.PRW
+             Type=T
+         End
+         File \rdmake\F460VER.PRW
+             Type=T
+         End
+         File \rdmake\CT030GRI.prw
+             Type=T
+         End
+         File \rdmake\MA030TOK.PRW
+             Type=T
+         End
+         File \rdmake\fa070tit_AP5.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\FA050GRV.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\FA040ALT.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\F130QRY.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\FA060QRY.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\VLDCNTCC.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\PE\CT105TOK.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\PE\CT101TOK.prw
+             Type=T
+         End
+         File \rdmake\FA050INC.PRW
+             Type=T
+         End
+         File \rdmake\FA050ALT.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\F110FIL.prw
+             Type=T
+         End
+         File \rdmake\Compras\PE\MT100TOK.prw
+             Type=T
+         End
+         File \rdmake\Compras\PE\MT100LOK.prw
+             Type=T
+         End
+         File \rdmake\FA280QRY.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\F050LRCT.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\FA470CTA.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\M460MARK.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\SIGAFIN.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\F240FIL.prw
+             Type=T
+         End
+         File \rdmake\MA020TOK.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\F420NAR.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\F050LRCT.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\F050LRAT.prw
+             Type=T
+         End
+         File \RDMAKE\Financeiro\PE\F280NFT.prw
+             Type=T
+         End
+         File \RDMAKE\Financeiro\PE\F280CHQRY.prw
+             Type=T
+         End
+      End
+      Folder Estoque
+         VSSPath=Nova Pasta10
+         FilesCount=2
+         File \rdmake\GEFEST01.PRW
+             Type=T
+         End
+         File \rdmake\IMPFIFO.PRW
+             Type=T
+         End
+      End
+      Folder Ativo Fixo
+         VSSPath=Nova Pasta11
+         FilesCount=4
+         File \rdmake\GEFM47.PRW
+             Type=T
+         End
+         File \rdmake\Ativo Fixo\GEATFA001.prw
+             Type=T
+         End
+         File \rdmake\Ativo Fixo\XTFR110.PRX
+             Type=T
+         End
+         File \rdmake\temp\ACTIVE.prw
+             Type=T
+         End
+      End
+      Folder Microsiga
+         VSSPath=Nova Pasta13
+         FilesCount=3
+         File \rdmake\TESTE\GEFCTB13.PRW
+             Type=T
+         End
+         File \rdmake\TESTE\GEFCTB8x.prw
+             Type=T
+         End
+         File \rdmake\TESTE\GEFCTB8y.prw
+             Type=T
+         End
+      End
+      Folder Funcoes
+         VSSPath=Nova Pasta14
+         FilesCount=3
+         File \rdmake\Financeiro\PE\FLimpaND.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\RetCliGrp.prw
+             Type=T
+         End
+         File \RDMAKE\Util\funcoes.PRW
+             Type=T
+         End
+      End
+      Folder Temp_Furtado
+         VSSPath=Nova Pasta14
+         FilesCount=2
+         File \rdmake\Financeiro\tempmar.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GefCNHLog.prw
+             Type=T
+         End
+      End
+      Folder Controle de Gestao
+         VSSPath=Nova Pasta15
+         FilesCount=6
+         File \rdmake\Controle de Gestao\GCTGA001.prw
+             Type=T
+         End
+         File \rdmake\Controle de Gestao\GCPSA005.prw
+             Type=T
+         End
+         File \rdmake\Controle de Gestao\GCPSA002.prw
+             Type=T
+         End
+         File \rdmake\Controle de Gestao\GCPSA003.prw
+             Type=T
+         End
+         File \rdmake\Controle de Gestao\GCPSA004.prw
+             Type=T
+         End
+         File \rdmake\Controle de Gestao\GCPSA001.prw
+             Type=T
+         End
+      End
+      Folder Util
+         VSSPath=Nova Pasta16
+         FilesCount=3
+         File \rdmake\Util\impfatu.prw
+             Type=T
+         End
+         File \rdmake\Util\EnvEmail.prw
+             Type=T
+         End
+         File \RDMAKE\Util\UPDSX.PRW
+             Type=T
+         End
+      End
+      Folder Teste
+         VSSPath=Nova Pasta17
+         FilesCount=26
+         File \rdmake\Financeiro\Teste\fTeste.prw
+             Type=T
+         End
+         File \rdmake\gefexport_NOVO.prw
+             Type=T
+         End
+         File \rdmake\TESTE\TCona050.prw
+             Type=T
+         End
+         File \rdmake\TESTE\ImpCC.prw
+             Type=T
+         End
+         File \rdmake\TESTE\EMBARALHA.PRW
+             Type=T
+         End
+         File \rdmake\TESTE\GEFLPRAT.prw
+             Type=T
+         End
+         File \rdmake\TESTE\FINA200.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\FA040B01.prw
+             Type=T
+         End
+         File \rdmake\Contabilidade\relatorio\GEFR012E.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\GEFR015.prw
+             Type=T
+         End
+         File \rdmake\Financeiro\PE\SIGAFIN.PRW
+             Type=T
+         End
+         File \rdmake\Financeiro\GEFM43Y.PRW
+             Type=T
+         End
+         File \rdmake\TESTE\DIEF.prw
+             Type=T
+         End
+         File \rdmake\TESTE\FIN150_1.PRX
+             Type=T
+         End
+         File \rdmake\TESTE\CNAB2.PRX
+             Type=T
+         End
+         File \rdmake\TESTE\GEFM062SF3.PRW
+             Type=T
+         End
+         File \rdmake\TESTE\CONR060g.PRX
+             Type=T
+         End
+         File \rdmake\TESTE\MANAD_04.prw
+             Type=T
+         End
+         File \rdmake\TESTE\GEFM065.prw
+             Type=T
+         End
+         File \rdmake\TESTE\FQMTRM.PRW
+             Type=T
+         End
+         File \rdmake\TESTE\MANAD_07.prw
+             Type=T
+         End
+         File \rdmake\TESTE\SINCO_CTB.prw
+             Type=T
+         End
+         File \rdmake\TESTE\MANAD_08.prw
+             Type=T
+         End
+         File \rdmake\TESTE\MANAD.prw
+             Type=T
+         End
+         File \rdmake\Carga_De_Clientes_Adhoc.PRW
+             Type=T
+         End
+         File \rdmake\TESTE\GestLoteII.prw
+             Type=T
+         End
+      End
+      Folder Teste Baixa Provisão Compra Frete
+         VSSPath=Nova Pasta17
+         FilesCount=2
+         File \rdmake\TESTE\GEFM064.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\RGEFM04.PRW
+             Type=T
+         End
+      End
+      Folder TMS
+         VSSPath=Nova Pasta19
+         FilesCount=72
+         File \rdmake\TMS\Pontos de Entrada\TM200TES.prw
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TMALTBAS.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TM050TOK.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TM200FIM.prw
+             Type=T
+         End
+         File \rdmake\TMS\EDI\GEFA001.PRW
+             Type=T
+         End
+         File \rdmake\TMS\EDI\GEFA002.prw
+             Type=T
+         End
+         File \rdmake\TMS\EDI\GEFA003.PRW
+             Type=T
+         End
+         File \rdmake\TMS\EDI\GEFA004.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Relatórios\RTMSR01.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Cadastros\szf.prw
+             Type=T
+         End
+         File \rdmake\TMS\Cadastros\szg.prw
+             Type=T
+         End
+         File \rdmake\TMS\Cadastros\SZH.prw
+             Type=T
+         End
+         File \rdmake\TMS\Cadastros\szi.prw
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\chgx5fil.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Cadastros\GFCAD002.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Cadastros\GFCAD003.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Cadastros\GFCAD004.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Cadastros\GFCAD006.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TMCALFRE.prw
+             Type=T
+         End
+         File \rdmake\TMS\EDI\GEFA005.prw
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TMA050GRV.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\VlQtdLot.prw
+             Type=T
+         End
+         File \rdmake\TMS\EDI\EDIXFUNC.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TM050EDI.prw
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TME10VLI.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Relatórios\GEFR20.prw
+             Type=T
+         End
+         File \rdmake\TMS\Relatórios\GEFR21.prw
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TMA050CPO.PRW
+             Type=T
+         End
+         File \rdmake\TMS\EDI\GEFA006.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TM050BUT.prw
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TMCPOEDI.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\CRIALOTE.prw
+             Type=T
+         End
+         File \rdmake\TMS\Relatórios\GEFR20.prw
+             Type=T
+         End
+         File \rdmake\TMS\Relatórios\GEFR21.prw
+             Type=T
+         End
+         File \rdmake\TMS\EDI\GEFA001.PRW
+             Type=T
+         End
+         File \rdmake\TMS\EDI\GEFA006.PRW
+             Type=T
+         End
+         File \rdmake\TMS\EDI\GEFA005.prw
+             Type=T
+         End
+         File \rdmake\TMS\GEFDE5DEL.prw
+             Type=T
+         End
+         File \rdmake\TMS\Relatórios\GEFR082.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TMA050GRV.PRW
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TM200FIM.prw
+             Type=T
+         End
+         File \rdmake\TMS\Pontos de Entrada\TM200EXC.prw
+             Type=T
+         End
+         File \rdmake\TMS\Relatórios\GEFR21.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\Cadastros\ATUSA1.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\Cadastros\ATUSA2.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CT-e\CTESEFAZ.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\TM200OK.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\TM200EST.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\EDI\GEFMXML.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\TM050TOK.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\TM250XML.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\TM340OPE.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\TMTABCAR.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\TM460CPO.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\GEFADT6XFIN.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\EDI\RGEFE02.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\EDI\RGEFE03.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\TMSA1801.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\EDI\CECEML.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CT-e\GEFTMSA200.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\EDI\RTMSE01.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\MDF-e\TMSA1801.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\TMF05GR1.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GefCNHLog.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\EDI\RGEFE01.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CT-e\RTMSR27.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\FI040ROT.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\TM500DOC.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CT-e\GEFXMLROB.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CT-e\averbar.prw
+             Type=T
+         End
+         File \TMS\GPO\GEFR022.prw
+             Type=T
+         End
+         File \TMS\GPO\GEFRGPO2.prw
+             Type=T
+         End
+      End
+      Folder LOTEII
+         VSSPath=Nova Pasta19
+         FilesCount=6
+         File \rdmake\LOTEII\Gera_Interface_LoteII.PRW
+             Type=T
+         End
+         File \rdmake\LOTEII\Validacoes_LoteII.PRW
+             Type=T
+         End
+         File \rdmake\LOTEII\Gestao_de_Erratas_LoteII.PRW
+             Type=T
+         End
+         File \rdmake\LOTEII\ENVIO_EMAIL_ERRATAS_LOTEII.PRW
+             Type=T
+         End
+         File \rdmake\LOTEII\Cadastro_Filial_Gefco1.PRW
+             Type=T
+         End
+         File \rdmake\LOTEII\TSTGERA_LOTEII.PRW
+             Type=T
+         End
+      End
+      Folder WMS
+         VSSPath=Nova Pasta20
+         FilesCount=2
+         File \rdmake\WMS\GEFWMS02.prw
+             Type=T
+         End
+         File \rdmake\WMS\GEFWMS01.PRW
+             Type=T
+         End
+      End
+      Folder Compra de Frete
+         VSSPath=Nova Pasta21
+         FilesCount=5
+         File \rdmake\Faturamento\GEFM072.prw
+             Type=T
+         End
+         File \rdmake\Faturamento\GEFM073.prw
+             Type=T
+         End
+         File \rdmake\Compra-de-Frete-TLA\GEFR080.prw
+             Type=T
+         End
+         File \rdmake\Compra-de-Frete-TLA\GEFR081.prw
+             Type=T
+         End
+         File \rdmake\Compra-de-Frete-TLA\GEFM079.PRW
+             Type=T
+         End
+      End
+      Folder TMS-TLA
+         VSSPath=Nova Pasta22
+         FilesCount=8
+         File \rdmake\TMS\Pontos de Entrada\TM200EXC.prw
+             Type=T
+         End
+         File \rdmake\TMS\TLA\GEFA075.prw
+             Type=T
+         End
+         File \rdmake\TMS\TLA\GEFA076.prw
+             Type=T
+         End
+         File \rdmake\TMS\TLA\GEFR077.PRW
+             Type=T
+         End
+         File \rdmake\TMS\TLA\GEFA079.PRW
+             Type=T
+         End
+         File \rdmake\GEFM04_AP5.PRW
+             Type=T
+         End
+         File \rdmake\Compra-de-Frete-TLA\GEFM079.PRW
+             Type=T
+         End
+         File \RDMAKE\Compra-de-Frete-TLA\GEFM079.PRW
+             Type=T
+         End
+      End
+      Folder NFS-e
+         VSSPath=Nova Pasta23
+         FilesCount=15
+         File \rdmake\nfse\fCnNFS1.prw
+             Type=T
+         End
+         File \rdmake\nfse\FIRSTNFSE.prw
+             Type=T
+         End
+         File \rdmake\nfse\IMPRTXML.PRW
+             Type=T
+         End
+         File \rdmake\nfse\LOUTXML.prw
+             Type=T
+         End
+         File \rdmake\nfse\NFSEXml001.prw
+             Type=T
+         End
+         File \rdmake\nfse\NFSEXml002.prw
+             Type=T
+         End
+         File \rdmake\nfse\NFSEXml003.PRW
+             Type=T
+         End
+         File \rdmake\nfse\NFSEXml102.PRW
+             Type=T
+         End
+         File \rdmake\nfse\uConSitSef.prw
+             Type=T
+         End
+         File \rdmake\nfse\XFISA022.prw
+             Type=T
+         End
+         File \rdmake\Compras\PE\MA103BUT.prw
+             Type=T
+         End
+         File \RDMAKE\nfse\GEFA008x.PRW
+             Type=T
+         End
+         File \RDMAKE\nfse\GEFA008.prw
+             Type=T
+         End
+         File \RDMAKE\nfse\GEFA080.prw
+             Type=T
+         End
+         File \RDMAKE\nfse\nfsexmlenv.prw
+             Type=T
+         End
+      End
+      Folder TMS-MDF-e
+         VSSPath=Nueva Carpeta24
+         FilesCount=3
+         File \RDMAKE\TMS\MDF-e\RTMSR28.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\MDF-e\DAMDFE.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\MDF-e\MDFSEFAZ.PRW
+             Type=T
+         End
+      End
+      Folder TMS-CNH
+         VSSPath=Nueva Carpeta25
+         FilesCount=29
+         File \RDMAKE\TMS\CNH\TMSAFBUT.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFCNHCEP.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFCNHDOC.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFCNHLOG.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFCNHNFE.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFINTJOB.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFINTR01.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFINTR02.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFINTR03.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFWSCNH.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TM141FGRV.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TM350GRV.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TM350MNT.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TM360GRV.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TM360MAIL.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TM360TOK.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TMA050FIM.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TMF05COT.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TMF05GR1.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TMF05LOK.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\TMF05MNU.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFINTCNH.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFCNHLOT.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\RGEFM02.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\RGEFM03.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFCNHBWS.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\GEFCNHAST.PRW
+             Type=T
+         End
+         File \RDMAKE\TMS\Pontos de Entrada\TMA050MN.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\CNH\RGEFM04.PRW
+             Type=T
+         End
+      End
+      Folder WSSIM
+         VSSPath=Nueva Carpeta26
+         FilesCount=2
+         File \RDMAKE\WSSIM\GEFSIMWS.PRW
+             Type=T
+         End
+         File \RDMAKE\WSSIM\GEFSIMSZ6.prw
+             Type=T
+         End
+      End
+      Folder Integracao_CCO
+         VSSPath=Nova Pasta27
+         FilesCount=2
+         File \RDMAKE\Integra_CCO\MA410MNU.PRW
+             Type=T
+         End
+         File \RDMAKE\Integra_CCO\GEFCCOINT.prw
+             Type=T
+         End
+      End
+      Folder TMS-GPO
+         VSSPath=Nova Pasta28
+         FilesCount=7
+         File \RDMAKE\TMS\GPO\GEFRGPO01.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\Relatórios\GEFR022.prw
+             Type=T
+         End
+         File \RDMAKE\TMS\GPO\CT-e\CteSefaz.prw
+             Type=T
+         End
+         File \RDMAKE\GPO\LOCT005.PRW
+             Type=T
+         End
+         File \RDMAKE\GPO\fRepomCtr.prw
+             Type=T
+         End
+         File \RDMAKE\GPO\FREPOMPDG.PRW
+             Type=T
+         End
+         File \RDMAKE\GPO\LOCC001.PRW
+             Type=T
+         End
+      End
+   End
+   BatchBuild_Item0=Novo Projeto · TESTE
+End
